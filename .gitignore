@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Fichiers régénérés à chaque exécution (les graphiques restent versionnés pour le README)
+outputs/*.csv
